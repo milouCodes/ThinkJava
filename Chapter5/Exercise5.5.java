@@ -12,7 +12,7 @@ public class bottlesofbeer {
             System.out.println(beerNumber + " bottles of beer on the wall,");
             System.out.println(beerNumber + " bottles of beer,");
             System.out.println("ya’ take one down, ya’ pass it around,");
-            System.out.print(beerNumber-- + " bottles of beer on the wall.\n\n"); // put whitespace between verses
+            System.out.print(--beerNumber + " bottles of beer on the wall.\n\n"); // put whitespace between verses
             lyrics(beerNumber);
         }
 
@@ -26,3 +26,4 @@ public class bottlesofbeer {
     }
 
 }
+
