@@ -2,7 +2,7 @@
 //  Exercise 5.7
 //  ThinkJava - Chapter 5
 //
-//  Created by Milou Zwart on 6/11/2018.
+//  Created by Milou Zwart on 7/11/2018.
 //
 import java.util.Scanner;
 import java.util.Random;
