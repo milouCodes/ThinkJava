@@ -2,7 +2,7 @@
 //  Exercise 5.6
 //  ThinkJava - Chapter 5
 //
-//  Created by Milou Zwart on 6/11/2018.
+//  Created by Milou Zwart on 7/11/2018.
 //
 public class Buzz {
     public static void baffle(String blimp) { // 8
